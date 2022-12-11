@@ -16,17 +16,17 @@ React
 Node.js
 -->
 
-Hi everyone!
+<b>Hi everyone!
 
-Brief information:
+Brief information:</b>
 
-    Network Specialist
-    Front-end developer (react.js)
+    - Network Specialist
+    - Front-end developer (react.js)
     
 <br/>
 <hr/>
 
-Technology stack
+<b>Technology stack:</b>
 
 <!-- Bash -->
 <img align="left" alt="Bash" width="25px" src="https://github.com/BertramMiller/BertramMiller/blob/main/images/bash.png" />
@@ -63,7 +63,7 @@ Technology stack
 
 <br/>
 <hr/>
-<b>Analytics</b>
+<b>Analytics:</b>
 
 <img width="400em" alt="Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BertramMiller&theme=radical&layout=compact" />
 
