@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **BertramMiller/BertramMiller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,7 +22,9 @@ Brief information:
 
     Network Specialist
     Front-end developer (react.js)
-
+    
+<br/>
+<hr/>
 ### Technology stack
 <!-- Bash -->
 <img align="left" alt="Bash" width="25px" src="https://github.com/BertramMiller/BertramMiller/blob/main/images/bash.png" />
@@ -58,11 +58,6 @@ Brief information:
 
 <!-- React -->
 <img align="left" alt="react" width="25px" src="https://github.com/BertramMiller/BertramMiller/blob/main/images/react.png" />
-
-<br/>
-Brief information:
-
-- Front-end developer (react.js)
 
 <br/>
 <hr/>
