@@ -63,7 +63,7 @@ Technology stack
 
 <br/>
 <hr/>
-### Analytics
+<b>Analytics</b>
 
 <img width="400em" alt="Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BertramMiller&theme=radical&layout=compact" />
 
