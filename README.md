@@ -16,7 +16,7 @@ React
 Node.js
 -->
 
-### Hi everyone!
+Hi everyone!
 
 Brief information:
 
@@ -25,7 +25,9 @@ Brief information:
     
 <br/>
 <hr/>
-### Technology stack
+
+Technology stack
+
 <!-- Bash -->
 <img align="left" alt="Bash" width="25px" src="https://github.com/BertramMiller/BertramMiller/blob/main/images/bash.png" />
 
